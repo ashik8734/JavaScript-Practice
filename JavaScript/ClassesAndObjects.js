@@ -6,7 +6,7 @@ const employee={
 };
 
 const emp1={
-    salary:25000,
+    salary:25000, 
 }
 
 const emp2={
